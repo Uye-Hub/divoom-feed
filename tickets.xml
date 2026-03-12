@@ -3,12 +3,21 @@
   <channel>
     <title>ServiceNow Ticket Counter</title>
     <description>Manual ticket count feed</description>
-    <link>https://UYE-HUB.github.io/divoom-feed/tickets.xml</link>
+    <link>https://uye-hub.github.io/divoom-feed/tickets.xml</link>
+
     <item>
-      <title>Tickets:24/title>
-      <description>Current open ticket count is 28</description>
+      <title>Open Tickets: 12</title>
+      <description>Current open ticket count is 12</description>
       <pubDate>Wed, 12 Mar 2026 07:00:00 PST</pubDate>
-      <guid>ticket-count-28</guid>
+      <guid>ticket-count-12</guid>
     </item>
+
+    <item>
+      <title>Status</title>
+      <description>System running</description>
+      <pubDate>Wed, 12 Mar 2026 07:00:00 PST</pubDate>
+      <guid>status</guid>
+    </item>
+
   </channel>
 </rss>
