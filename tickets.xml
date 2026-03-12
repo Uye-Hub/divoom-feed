@@ -5,10 +5,10 @@
     <description>Manual ticket count feed</description>
     <link>https://UYE-HUB.github.io/divoom-feed/tickets.xml</link>
     <item>
-      <title>Open Tickets: 12</title>
-      <description>Current open ticket count is 12</description>
+      <title>Open Tickets 28</title>
+      <description>Current open ticket count is 28</description>
       <pubDate>Wed, 12 Mar 2026 07:00:00 PST</pubDate>
-      <guid>ticket-count-12</guid>
+      <guid>ticket-count-28</guid>
     </item>
   </channel>
 </rss>
