@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ServiceNow Ticket Counter</title>
+    <description>Manual ticket count feed</description>
+    <link>https://UYE-HUB.github.io/divoom-feed/tickets.xml</link>
+    <item>
+      <title>Open Tickets: 12</title>
+      <description>Current open ticket count is 12</description>
+      <pubDate>Wed, 12 Mar 2026 07:00:00 PST</pubDate>
+      <guid>ticket-count-12</guid>
+    </item>
+  </channel>
+</rss>
+add RSS feed
