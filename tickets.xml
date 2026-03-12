@@ -6,14 +6,14 @@
     <link>https://uye-hub.github.io/divoom-feed/tickets.xml</link>
 
     <item>
-      <title>My Current Tickets: 24</title>
+      <title>Tickets 24</title>
       <description>Current open ticket count is 24</description>
       <pubDate>Wed, 12 Mar 2026 07:00:00 PST</pubDate>
       <guid>ticket-count-12</guid>
     </item>
 
     <item>
-      <title>Today's Closed Tickets: 5</title>
+      <title>Closed 5</title>
       <description>System running</description>
       <pubDate>Wed, 12 Mar 2026 07:00:00 PST</pubDate>
       <guid>status</guid>
