@@ -6,16 +6,16 @@
     <link>https://uye-hub.github.io/divoom-feed/tickets.xml</link>
  
     <item>
-      <title>Open: 30</title>
-      <description>Current open ticket count is 30</description>
-      <pubDate>Mon, 20 Apr 2026 13:49:00 PDT</pubDate>
+      <title>Open: 29</title>
+      <description>Current open ticket count is 29</description>
+      <pubDate>Mon, 20 Apr 2026 14:10:00 PDT</pubDate>
       <guid>ticket-count-12</guid>
     </item>
  
     <item>
-      <title>Closed: 3</title>
-      <description>3 cases closed</description>
-      <pubDate>Mon, 20 Apr 2026 13:49:00 PDT</pubDate>
+      <title>Closed: 4</title>
+      <description>4 cases closed</description>
+      <pubDate>Mon, 20 Apr 2026 14:10:00</pubDate>
       <guid>status</guid>
     </item>
  
