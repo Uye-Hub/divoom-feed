@@ -6,16 +6,16 @@
     <link>https://uye-hub.github.io/divoom-feed/tickets.xml</link>
  
     <item>
-      <title>Out of Office</title>
+      <title>OutOfOffice</title>
       <description>Current open ticket count is 15</description>
-      <pubDate>Tue, 2 June 2026 15:41:00 PDT</pubDate>
+      <pubDate>Tue, 2 June 2026 15:56:00 PDT</pubDate>
       <guid>ticket-count-12</guid>
     </item>
  
     <item>
       <title>Service Visit</title>
       <description>4 cases closed</description>
-      <pubDate>Tue, 2 June 2026 15:41:00 PDT</pubDate>
+      <pubDate>Tue, 2 June 2026 15:56:00 PDT</pubDate>
       <guid>status</guid>
     </item>
  
