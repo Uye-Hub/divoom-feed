@@ -4,52 +4,53 @@
     <title>ServiceNow Ticket Counter</title>
     <description>Manual ticket count feed</description>
     <link>https://uye-hub.github.io/divoom-feed/tickets.xml</link>
- 
+
     <item>
-      <title>Mario:5/title>
+      <title>Mario:5</title>
       <description>Current open ticket count for Mario is 5</description>
-      <pubDate>Fri, 12 June 2026 12:25:00 PDT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 12:25:00 -0700</pubDate>
       <guid>ticket-count-1</guid>
     </item>
- 
+
     <item>
       <title>Gideon:24</title>
-      <description>Current open ticket count for Gideon is 5</description>
-      <pubDate>Fri, 12 June 2026 12:25:00 PDT</pubDate>
+      <description>Current open ticket count for Gideon is 24</description>
+      <pubDate>Fri, 12 Jun 2026 12:25:00 -0700</pubDate>
       <guid>ticket-count-2</guid>
     </item>
 
-     <item>
-      <title>Nick:15/title>
-      <description>Current open ticket count for Nick is 5</description>
-      <pubDate>Fri, 12 June 2026 12:25:00 PDT</pubDate>
+    <item>
+      <title>Nick:15</title>
+      <description>Current open ticket count for Nick is 15</description>
+      <pubDate>Fri, 12 Jun 2026 12:25:00 -0700</pubDate>
       <guid>ticket-count-3</guid>
     </item>
 
-   <item>
-      <title>Mike.S:17/title>
+    <item>
+      <title>Mike.S:17</title>
       <description>Current open ticket count for Michael Salazar is 17</description>
-      <pubDate>Fri, 12 June 2026 12:25:00 PDT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 12:25:00 -0700</pubDate>
       <guid>ticket-count-4</guid>
     </item>
 
-   <item>
-      <title>Mike.P:17/title>
-      <description>Current open ticket count for Michael peterson is 17</description>
-      <pubDate>Fri, 12 June 2026 12:25:00 PDT</pubDate>
+    <item>
+      <title>Mike.P:17</title>
+      <description>Current open ticket count for Michael Peterson is 17</description>
+      <pubDate>Fri, 12 Jun 2026 12:25:00 -0700</pubDate>
       <guid>ticket-count-5</guid>
     </item>
 
     <item>
-      <title>David:2/title>
+      <title>David:2</title>
       <description>Current open ticket count for David is 2</description>
-      <pubDate>Fri, 12 June 2026 12:25:00 PDT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 12:25:00 -0700</pubDate>
       <guid>ticket-count-6</guid>
     </item>
- <item>
-      <title>Thomas:5/title>
-      <description>Current open ticket count for Thomas is 4</description>
-      <pubDate>Fri, 12 June 2026 12:25:00 PDT</pubDate>
+
+    <item>
+      <title>Thomas:5</title>
+      <description>Current open ticket count for Thomas is 5</description>
+      <pubDate>Fri, 12 Jun 2026 12:25:00 -0700</pubDate>
       <guid>ticket-count-7</guid>
     </item>
   </channel>
